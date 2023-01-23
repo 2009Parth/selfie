@@ -1,0 +1,54 @@
+body
+{
+    background-color:rgb(239, 205, 92);
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#h1
+{
+    font-family:cursive;
+    text-decoration: underline;
+}
+#h3
+{
+    font-family:'Yeon Sung';
+}
+#h4
+{
+    font-family: cursive;
+}
+textarea
+{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+}
+button
+{
+    border-style: solid;
+    border-radius: 7px;
+    padding: 20px;
+    font-family: cursive;
+}
+label
+{
+    font-family:Yeon Sung;
+    font-size: 15px;
+}
